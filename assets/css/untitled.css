@@ -1,0 +1,8 @@
+@media (min-width:992px) {
+  .col-lg-8 {
+    -ms-flex: 0 0 90%;
+    flex: 0 0 90%;
+    max-width: 90%;
+  }
+}
+
