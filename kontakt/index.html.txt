@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Rick n' Rolls</title>
+    <link rel="shortcut icon" href="assets/img/icon.png">
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cabin:700">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora">
+    <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/fonts/ionicons.min.css">
+    <link rel="stylesheet" href="assets/fonts/material-icons.min.css">
+    <link rel="stylesheet" href="assets/css/Article-Clean.css">
+    <link rel="stylesheet" href="assets/css/Article-List.css">
+    <link rel="stylesheet" href="assets/css/Features-Boxed.css">
+    <link rel="stylesheet" href="assets/css/Footer-Dark.css">
+    <link rel="stylesheet" href="assets/css/Team-Clean.css">
+    <link rel="stylesheet" href="assets/css/untitled.css">
+</head>
+
+<body id="page-top">
+    <nav class="navbar navbar-light navbar-expand-md navbar navbar-expand-lg fixed-top" id="mainNav">
+        <div class="container"><a class="navbar-brand js-scroll-trigger" href="#"><img src="assets/img/logob.png" style="width: 188px;"></a><button data-toggle="collapse" class="navbar-toggler navbar-toggler-right" data-target="#navbarResponsive" type="button" aria-controls="navbarResponsive"
+                aria-expanded="false" aria-label="Toggle navigation" value="Menu"><i class="fa fa-bars"></i></button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="nav navbar-nav ml-auto">
+                    <li class="nav-item nav-link js-scroll-trigger" role="presentation"><a class="nav-link active js-scroll-trigger" href="#onas">O NAS</a></li>
+                    <li class="nav-item nav-link js-scroll-trigger" role="presentation"><a class="nav-link js-scroll-trigger" href="#cotofrc">CO TO FRC?</a></li>
+                    <li class="nav-item nav-link js-scroll-trigger" role="presentation"><a class="nav-link js-scroll-trigger" href="#sponsorzy">SPONSORZY I PARTNERZY</a></li>
+                    <li class="nav-item nav-link js-scroll-trigger" role="presentation"><a class="nav-link js-scroll-trigger" href="#kontakt">KONTAKT</a></li>
+                    <li class="nav-item nav-link js-scroll-trigger" role="presentation"><a class="nav-link js-scroll-trigger" href="">ENG</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <header class="masthead" style="background-image: url('https://cdn.pixabay.com/photo/2015/05/26/23/52/technology-785742_1280.jpg');filter: blur(0px) contrast(100%) saturate(100%) sepia(43%);">
+        <div class="intro-body" style="filter: blur(0px) brightness(100%) contrast(132%);">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 mx-auto" style="width: 90%;">
+                        <h1 class="brand-heading" style="margin-top: 60px;font-size: 76px;">ODMIENIONE OBLICZE ROBOTYKI</h1>
+                        <p class="intro-text" style="font-family: Cabin, sans-serif;font-size: 50px;margin-bottom: 35px;padding-bottom: 17px;">RICK N' ROLLS&nbsp;</p><a class="btn btn-link btn-circle" role="button" href="#onas"><i class="fa fa-angle-double-down animated"></i></a></div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <section id="onas" class="content-section text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2>O NAS</h2>
+                    <p>Nasza drużyna złożona jest z uczniów najlepszych warszawskich liceów, aspirujemy do wystartowania w zawodach First Robotics Competition, najbardziej prestiżowych zawodach robotycznych na całym świecie. W ramach tego musimy pozyskać fundusze na wpisowe do turnieju oraz na zbudowanie robota, którego potem musimy również zaprogramować do wykonywania określonych zadań.</p>
+                    <p><br>Aby osiągnąć sukces, nasza drużyna została stworzona na wzór korporacji z podziałem na sekcje i hierarchią władzy.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="article-list">
+    	<section id="nasze-sekcje">
+        <div class="container">
+            <div class="intro">
+                <h2 class="text-center">NASZE SEKCJE</h2>
+                <p class="text-center black-text">Aby drużyna sprawnie funkcjonowała, została podzielona na 4 współpracujące ze sobą sekcje. </p>
+            </div>
+            <div class="row articles">
+                <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="https://cdn.pixabay.com/photo/2015/04/20/13/17/work-731198_960_720.jpg"></a>
+                    <h3 class="name">Programiści</h3>
+                    <p class="description black-text">Sekcja Programistów - administrowanie strony internetowej drużyny oraz programowanie robota.</p><a class="action" href="#"><i class="fa fa-arrow-circle-right"></i></a></div>
+                <div
+                    class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="https://media.istockphoto.com/photos/industry-40-young-engineer-works-with-a-headmounted-display-picture-id1156535018?b=1&k=6&m=1156535018&s=170667a&w=0&h=jhqnYQKFRMmNQTiANZYuYvArZdUXOsSw7mpUV5gwQvs="></a>
+                    <h3 class="name">Mechanicy</h3>
+                    <p class="description black-text">Sekcja Mechaników - zaprojektowanie oraz zbudowanie robota.</p><a class="action" href="#"><i class="fa fa-arrow-circle-right"></i></a></div>
+            	<div
+                	class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="https://media.istockphoto.com/photos/confident-female-professional-discussing-with-colleagues-picture-id1150572145?b=1&k=6&m=1150572145&s=170667a&w=0&h=OL3Lvl6GG4vvRoB1e3uAu-7e8_vNO1yUhVVbWQLdqIY="></a>
+                	<h3 class="name">Public Relations</h3>
+                	<p class="description black-text">Sekcja PR - prowadzenie mediów społecznościowych, kontakt ze sponsorami, rekrutacja nowych członków i dbanie o wizerunek drużyny.</p><a class="action" href="#"><i class="fa fa-arrow-circle-right"></i></a></div>
+    		</div>
+    	</div>
+    	</section>
+    </div>
+    <div class="team-clean white-text">
+    	<section id="nasza-druzyna">
+        <div class="container">
+            <div class="intro">
+                <h2 class="text-center">NASZA DRUŻYNA</h2>
+                <p class="text-center white-text">Nunc luctus in metus eget fringilla. Aliquam sed justo ligula. Vestibulum nibh erat, pellentesque ut laoreet vitae. </p>
+            </div>
+            <div class="row people">
+                <div class="col-md-6 col-lg-4 item"><img class="rounded-circle" src="assets/img/1.jpg">
+                    <h3 class="name">Ben Johnson</h3>
+                    <p class="title">Musician</p>
+                    <p class="description white-text">Aenean tortor est, vulputate quis leo in, vehicula rhoncus lacus. Praesent aliquam in tellus eu gravida. Aliquam varius finibus est, et interdum justo suscipit id. Etiam dictum feugiat tellus, a semper massa. </p>
+                    <div class="social white-text"><a href="#"><i class="fa fa-facebook-official"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-instagram"></i></a></div>
+                </div>
+                <div class="col-md-6 col-lg-4 item"><img class="rounded-circle" src="assets/img/2.jpg">
+                    <h3 class="name">Emily Clark</h3>
+                    <p class="title">Artist</p>
+                    <p class="description white-text">Aenean tortor est, vulputate quis leo in, vehicula rhoncus lacus. Praesent aliquam in tellus eu gravida. Aliquam varius finibus est, et interdum justo suscipit id. Etiam dictum feugiat tellus, a semper massa. </p>
+                    <div class="social white-text"><a href="#"><i class="fa fa-facebook-official"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-instagram"></i></a></div>
+                </div>
+                <div class="col-md-6 col-lg-4 item"><img class="rounded-circle" src="assets/img/3.jpg">
+                    <h3 class="name">Carl Kent</h3>
+                    <p class="title">Stylist</p>
+                    <p class="description white-text">Aenean tortor est, vulputate quis leo in, vehicula rhoncus lacus. Praesent aliquam in tellus eu gravida. Aliquam varius finibus est, et interdum justo suscipit id. Etiam dictum feugiat tellus, a semper massa. </p>
+                    <div class="social white-text"><a href="#"><i class="fa fa-facebook-official"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-instagram"></i></a></div>
+                </div>
+            </div>
+        </div>
+    	</section>
+    </div>
+    <div class="features-boxed">
+    	<section id="dolacz-do-nas">
+        <div class="container">
+            <div class="intro">
+                <h2 class="text-center">Dołącz do nas</h2>
+                <p class="text-center black-text">Nunc luctus in metus eget fringilla. Aliquam sed justo ligula. Vestibulum nibh erat, pellentesque ut laoreet vitae.</p>
+            </div>
+            <div class="row justify-content-center features">
+                <div class="col-sm-6 col-md-5 col-lg-4 item">
+                    <div class="box"><i class="fa fa-map-marker icon"></i>
+                        <h3 class="name">Works everywhere</h3>
+                        <p class="description black-text">Aenean tortor est, vulputate quis leo in, vehicula rhoncus lacus. Praesent aliquam in tellus eu.</p><a class="learn-more" href="#">Learn more »</a></div>
+                </div>
+                <div class="col-sm-6 col-md-5 col-lg-4 item">
+                    <div class="box"><i class="fa fa-clock-o icon"></i>
+                        <h3 class="name">Always available</h3>
+                        <p class="description black-text">Aenean tortor est, vulputate quis leo in, vehicula rhoncus lacus. Praesent aliquam in tellus eu.</p><a class="learn-more" href="#">Learn more »</a></div>
+                </div>
+                <div class="col-sm-6 col-md-5 col-lg-4 item">
+                    <div class="box"><i class="fa fa-list-alt icon"></i>
+                        <h3 class="name">Customizable </h3>
+                        <p class="description black-text">Aenean tortor est, vulputate quis leo in, vehicula rhoncus lacus. Praesent aliquam in tellus eu.</p><a class="learn-more" href="#">Learn more »</a></div>
+                </div>
+                <div class="col-sm-6 col-md-5 col-lg-4 item">
+                    <div class="box"><i class="fa fa-leaf icon"></i>
+                        <h3 class="name">Organic </h3>
+                        <p class="description black-text">Aenean tortor est, vulputate quis leo in, vehicula rhoncus lacus. Praesent aliquam in tellus eu.</p><a class="learn-more" href="#">Learn more »</a></div>
+                </div>
+                <div class="col-sm-6 col-md-5 col-lg-4 item">
+                    <div class="box"><i class="fa fa-plane icon"></i>
+                        <h3 class="name">Fast </h3>
+                        <p class="description black-text">Aenean tortor est, vulputate quis leo in, vehicula rhoncus lacus. Praesent aliquam in tellus eu.</p><a class="learn-more" href="#">Learn more »</a></div>
+                </div>
+                <div class="col-sm-6 col-md-5 col-lg-4 item">
+                    <div class="box"><i class="fa fa-phone icon"></i>
+                        <h3 class="name">Mobile-first</h3>
+                        <p class="description black-text">Aenean tortor est, vulputate quis leo in, vehicula rhoncus lacus. Praesent aliquam in tellus eu.</p><a class="learn-more" href="#">Learn more »</a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+	</section>
+    <section id="cotofrc">
+    <br>
+    <div class="article-clean" style="background: #393E41;">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-10 col-xl-8 offset-lg-1 offset-xl-2">
+                    <div class="intro" style="text-align: center;">
+                        <h1 class="text-center" style="color: rgb(255,255,255);">CO TO FRC?</h1>
+                    </div>
+                    <div class="text text-cotofrc">
+                        <p style="color: rgb(255,255,255);">Aby powiedzieć czym jest FRC należy najpierw wyjaśnić działalność FIRST. <br> FIRST (For Inspiration and Recognition of Science and Technology), to amerykańska organizacja non-profit utworzona w 1989 w Stanach Zjednoczonych, której misją jest inspirowanie młodych ludzi do rozwoju w dziedzinach informatyki, technologii oraz innowacji, poprzez organizowanie projektów robotycznych, do których wzięcia udziału młodzi ludzie muszą formować drużyny i ze sobą współpracować. Jest ona odpowiedzialna za organizację jednych z najbardziej prestiżowych zawodów robotycznych na świecie - FRC (FIRST Robotics Competition).</p>
+                        <h2 style="color: rgb(255,255,255);">Zawody FRC </h2>
+                        <p style="color: rgb(255,255,255);">W owych zawodach mogą brać udział licealiści z całego świata. W ramach konkursu musimy samodzielnie zebrać fundusze i wszelkie środki potrzebne do skonstruowania kilkudziesięciokilogramowego robota, który spełni odpowiednie kryteria i wymagania przedstawione przez organizatorów np.: zbieranie, magazynowanie oraz wystrzeliwanie piłek, podciąganie się na drążku, czy nawet stworzenie własnego systemu wizji i rozpoznawania obiektów. Zawody składają się z dwóch etapów. Razem z robotem musimy wpierw pojechać za granicę na etapy regionalne, które dopiero mogą nam pozwolić na wzięcie udziału w&#160;mistrzostwach, które odbywają się w Stanach Zjednoczonych.</p>
+                        <figure><img class="figure-img" src="https://blog.digilentinc.com/wp-content/uploads/2019/03/fir.jpg">
+                        </figure>
+                        <p style="color: rgb(255,255,255);">Łączna pula nagród przekracza sumę $80 mln, w skład, której wchodzą stypendia oraz staże w&#160;firmach technologicznych na całym świecie. Sponsorami zawodów są firmy i uczelnie z całego świata. Znane firm wspierające zawody to chociażby: Google, Apple, NASA, Boeing, Rockwell, Ford, czy FedEx, ale także wiele, wiele innych... Natomiast przykłady znanych uczelni, które wspierają FRC to m.in.: MIT, Stanford, Princeton, czy Yale. <br> Co roku w zawody angażują się setki tysięcy osób z całego świata. W tym sezonie (2020/2021) liczba zarejestrowanych drużyn przekroczy 9000. A zawody streamowane są na cały świat i&#160;jednocześnie oglądane przez dziesiątki tysięcy osób. <br> Dla absolwentów FRC powstał program FIRST Alumni dla młodych doświadczonych maturzystów, którzy podczas swojej edukacji w szkołach wyższych angażowali się w FRC. Program ten pomaga im w rekrutacjach na wymarzone uczelnie oraz organizuje staże w największych firmach technologicznych na świecie.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+	</section>
+	<section id="sponsorzy">
+	<br>
+    <div class="article-list">
+        <div class="container">
+            <div class="intro">
+                <h2 class="text-center">SPONSORZY I PARTNERZY</h2>
+                <p class="text-center black-text">Nunc luctus in metus eget fringilla. Aliquam sed justo ligula. Vestibulum nibh erat, pellentesque ut laoreet vitae. </p>
+            </div>
+            <div class="row articles">
+                <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="assets/img/desk.jpg"></a>
+                    <h3 class="name">Article Title</h3>
+                    <p class="description black-text">Aenean tortor est, vulputate quis leo in, vehicula rhoncus lacus. Praesent aliquam in tellus eu gravida. Aliquam varius finibus est, interdum justo suscipit id.</p><a class="action" href="#"><i class="fa fa-arrow-circle-right"></i></a>
+                </div>
+                <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="assets/img/building.jpg"></a>
+                    <h3 class="name">Article Title</h3>
+                    <p class="description black-text">Aenean tortor est, vulputate quis leo in, vehicula rhoncus lacus. Praesent aliquam in tellus eu gravida. Aliquam varius finibus est, interdum justo suscipit id.</p><a class="action" href="#"><i class="fa fa-arrow-circle-right"></i></a>
+                </div>
+                <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="assets/img/loft.jpg"></a>
+                    <h3 class="name">Article Title</h3>
+                    <p class="description black-text">Aenean tortor est, vulputate quis leo in, vehicula rhoncus lacus. Praesent aliquam in tellus eu gravida. Aliquam varius finibus est, interdum justo suscipit id.</p><a class="action" href="#"><i class="fa fa-arrow-circle-right"></i></a>
+                </div>
+            </div>
+            <div id="container">
+                <button class="learn-more">
+                <span class="circle" aria-hidden="true">
+                <span class="icon arrow"></span>
+                </span>
+                <span class="button-text">Zobacz wszystkich sponsorów</span>
+                </button>
+            </div>
+        </div>
+    </div>
+	</section>
+    <section id="kontakt" class="content-section text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2>KONTAKT</h2>
+                    <p>Zapraszamy do kontaktu z nami poprzez</p>
+                    <ul class="list-inline banner-social-buttons">
+                        <li class="list-inline-item">&nbsp;<button class="btn btn-primary btn-lg btn-default" type="button"><a href="https://m.facebook.com/Rick-n-Rolls-101678664938175/" target="_blank"><i class="fab fa-facebook"></i><span class="network-name">&nbsp; Facebook</span></button></li>
+                        <li class="list-inline-item">&nbsp;<button class="btn btn-primary btn-lg btn-default" type="button"><a href="https://instagram.com/ricknrolls?igshid=1oxvabsaxe52u" target="_blank"><span class="network-name" >&nbsp;Instagram</span></button></li>
+                        <li class="list-inline-item">&nbsp;<form action="mailto:pr@ricknrolls.pl" method="post" enctype="text/plain"><button class="btn btn-primary btn-lg btn-default" type="button"><a href="" target="_blank"><i class="fas fa-envelope"></i><span class="network-name">&nbsp;E-mail</span></button></form></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="footer-dark">
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6 col-md-3 item">
+                        <h3>Services</h3>
+                        <ul>
+                            <li><a href="#">Web design</a></li>
+                            <li><a href="#">Development</a></li>
+                            <li><a href="#">Hosting</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-6 col-md-3 item">
+                        <h3>O NAS</h3>
+                        <ul>
+                            <li><a href="#nasze-sekcje">Nasze sekcje</a></li>
+                            <li><a href="#nasza-druzyna">Nasza drużyna</a></li>
+                            <li><a href="#dolacz-do-nas">Dołącz do nas</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 item text">
+                        <h3>Company Name</h3>
+                        <p>Praesent sed lobortis mi. Suspendisse vel placerat ligula. Vivamus ac sem lacus. Ut vehicula rhoncus elementum. Etiam quis tristique lectus. Aliquam in arcu eget velit pulvinar dictum vel in justo.</p>
+                    </div>
+                    <div class="col item social"><a href="https://www.facebook.com/Rick-n-Rolls-101678664938175" target="_blank"><i class="icon ion-social-facebook"></i></a><a href="https://www.instagram.com/ricknrolls/" target="_blank"><i class="icon ion-social-instagram"></i></a><a href="https://twitter.com/ricknrolls" target="_blank"><i class="icon ion-social-twitter"></i></a><a href="https://www.youtube.com/channel/UCZRjy-wmzp-4DGND_ZJDFGA?sub_confirmation=1" target="_blank"><i class="icon ion-social-youtube"></i></a><a href="https://www.reddit.com/user/realricknrolls" target="_blank"><i class="icon ion-social-reddit"></i></a></div>
+                </div>
+                <p class="copyright">Rick n' Rolls © 2020</p>
+            </div>
+        </footer>
+    </div>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+    <script src="assets/js/grayscale.js"></script>
+</body>
+
+</html>
