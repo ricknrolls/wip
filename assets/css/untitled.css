@@ -12,3 +12,9 @@ scroll-behavior: smooth;
 }
 
 
+@media (min-width: 768px) {
+  #nasze-sekcje .col-md-4{
+    flex: 0 0 25%;
+    max-width: 25%;
+  }
+}
