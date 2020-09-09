@@ -18,3 +18,59 @@ scroll-behavior: smooth;
     max-width: 25%;
   }
 }
+
+@media (min-width: 768px) {
+  .learn-more{
+    width: 18rem !important;
+  }
+}
+
+#motto{
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+#under-motto{
+  font-size: 26px;
+}
+
+#motto-header{
+  padding-top: 100px;
+}
+
+.masthead{
+  height: 100%;
+}
+
+#cotofrc-text{
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+ul.banner-social-buttons li{
+  display: inline-flex;
+}
+
+ul.banner-social-buttons{
+  padding-top: 45px;
+}
+
+#menu-mobile-button{
+  margin-top: 40px;
+  left: auto;
+}
+
+@media (min-width: 768px) {
+  #motto{
+    font-size: 72px;
+    margin-bottom: 35px;
+  }
+
+  #under-motto{
+    font-size: 50px;
+  }
+  
+  
+  
+}
+

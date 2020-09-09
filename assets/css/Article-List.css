@@ -83,11 +83,10 @@ button {
     text-decoration: none;
     background: transparent;
     font-size: inherit;
-
 }
 
     button.learn-more {
-        width: 24rem;
+        width: 100%;
         height: auto;
         outline: none;
         margin-top: 40px;

@@ -24,7 +24,7 @@
 <body id="page-top">
     <nav class="navbar navbar-light navbar-expand-md navbar navbar-expand-lg fixed-top" id="mainNav">
         <div class="container"><a class="navbar-brand js-scroll-trigger" href="#"><img src="assets/img/logob.png" style="width: 188px;"></a><button data-toggle="collapse" class="navbar-toggler navbar-toggler-right" data-target="#navbarResponsive" type="button" aria-controls="navbarResponsive"
-                aria-expanded="false" aria-label="Toggle navigation" value="Menu"><i class="fa fa-bars"></i></button>
+                aria-expanded="false" aria-label="Toggle navigation" value="Menu" id="menu-mobile-button"><i class="fa fa-bars"></i></button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="nav navbar-nav ml-auto">
                     <li class="nav-item nav-link js-scroll-trigger" role="presentation"><a class="nav-link active js-scroll-trigger" href="#onas">O NAS</a></li>
@@ -38,13 +38,13 @@
             </div>
         </div>
     </nav>
-    <header class="masthead" style="background-image: url('https://cdn.pixabay.com/photo/2015/05/26/23/52/technology-785742_1280.jpg');filter: blur(0px) contrast(100%) saturate(100%) sepia(43%);">
+    <header class="masthead" id="motto-header" style="background-image: url('https://cdn.pixabay.com/photo/2015/05/26/23/52/technology-785742_1280.jpg');filter: blur(0px) contrast(100%) saturate(100%) sepia(43%);">
         <div class="intro-body" style="filter: blur(0px) brightness(100%) contrast(132%);">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 mx-auto" style="width: 90%;">
-                        <h1 class="brand-heading" style="margin-top: 60px;font-size: 76px;">ODMIENIONE OBLICZE ROBOTYKI</h1>
-                        <p class="intro-text" style="font-family: Cabin, sans-serif;font-size: 50px;margin-bottom: 35px;padding-bottom: 17px;">RICK N' ROLLS&nbsp;</p><a class="btn btn-link btn-circle" role="button" href="#onas"><i class="fa fa-angle-double-down animated"></i></a></div>
+                        <h1 class="brand-heading" style="margin-top: 80px;" id="motto">ODMIENIONE OBLICZE ROBOTYKI</h1>
+                        <p class="intro-text" id="under-motto" style="font-family: Cabin, sans-serif;margin-bottom: 35px;padding-bottom: 17px;">RICK N' ROLLS&nbsp;</p><a class="btn btn-link btn-circle" role="button" href="#onas"><i class="fa fa-angle-double-down animated"></i></a></div>
                 </div>
             </div>
         </div>
@@ -194,7 +194,7 @@
                     <div class="intro" style="text-align: center;">
                         <h1 class="text-center" style="color: rgb(255,255,255);">CO TO FRC?</h1>
                     </div>
-                    <div class="text text-cotofrc">
+                    <div class="text text-cotofrc" id="cotofrc-text">
                         <p style="color: rgb(255,255,255);">Aby powiedzieć czym jest FRC należy najpierw wyjaśnić działalność FIRST. <br> FIRST (For Inspiration and Recognition of Science and Technology), to amerykańska organizacja non-profit utworzona w 1989 w Stanach Zjednoczonych, której misją jest inspirowanie młodych ludzi do rozwoju w dziedzinach informatyki, technologii oraz innowacji, poprzez organizowanie projektów robotycznych, do których wzięcia udziału młodzi ludzie muszą formować drużyny i ze sobą współpracować. Jest ona odpowiedzialna za organizację jednych z najbardziej prestiżowych zawodów robotycznych na świecie - FRC (FIRST Robotics Competition).</p>
                         <h2 style="color: rgb(255,255,255);">Zawody FRC </h2>
                         <p style="color: rgb(255,255,255);">W owych zawodach mogą brać udział licealiści z całego świata. W ramach konkursu musimy samodzielnie zebrać fundusze i wszelkie środki potrzebne do skonstruowania kilkudziesięciokilogramowego robota, który spełni odpowiednie kryteria i wymagania przedstawione przez organizatorów np.: zbieranie, magazynowanie oraz wystrzeliwanie piłek, podciąganie się na drążku, czy nawet stworzenie własnego systemu wizji i rozpoznawania obiektów. Zawody składają się z dwóch etapów. Razem z robotem musimy wpierw pojechać za granicę na etapy regionalne, które dopiero mogą nam pozwolić na wzięcie udziału w&#160;mistrzostwach, które odbywają się w Stanach Zjednoczonych.</p>
@@ -234,7 +234,7 @@
                 <span class="circle" aria-hidden="true">
                 <span class="icon arrow"></span>
                 </span>
-                <span class="button-text">Zobacz wszystkich sponsorów</span>
+                <span class="button-text">Zobacz sponsorów</span>
                 </button>
             </div>
         </div>
@@ -251,20 +251,20 @@
                             <a href="https://m.facebook.com/Rick-n-Rolls-101678664938175/" target="_blank">
                                 <i class="fa fa-facebook-official"></i>
                                 <span class="network-name">&nbsp; Facebook</span>
-                            </button>
+                            </a></button>
                         </li>
                         <li class="list-inline-item">&nbsp;<button class="btn btn-primary btn-lg btn-default" type="button">
                             <a href="https://instagram.com/ricknrolls?igshid=1oxvabsaxe52u" target="_blank">
                                 <i class="fa fa-instagram"></i>
                                 <span class="network-name" >&nbsp;Instagram</span>
-                            </button>
+                            </a></button>
                         </li>
                         <li class="list-inline-item">&nbsp;<form action="mailto:pr@ricknrolls.pl" method="post" enctype="text/plain">
                             <button class="btn btn-primary btn-lg btn-default" type="button">
                                 <a href="" target="_blank">
                                     <i class="fa fa-envelope"></i>
                                     <span class="network-name">&nbsp;E-mail</span>
-                                </button>
+                                </a></button>
                             </form>
                         </li>
                     </ul>
