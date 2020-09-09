@@ -99,6 +99,10 @@ ul.banner-social-buttons{
   #frc-logo{
     max-width: 60%;
   }
+
+  .navbar-collapse{
+    border-top: none;
+  }
   
 }
 
