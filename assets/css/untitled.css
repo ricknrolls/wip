@@ -60,6 +60,32 @@ ul.banner-social-buttons{
   left: auto;
 }
 
+#frc-logo{
+  max-width: 100%;
+}
+
+.content-section {
+  padding-top: 75px;
+  padding-bottom: 75px;
+}
+
+#mainNav .navbar-toggler{
+  border: none;
+}
+
+#mainNav .navbar-toggler:focus{
+  border: none;
+  outline: none;
+}
+
+#mainNav{
+  background-color: #2b2d2d;
+}
+
+.navbar-collapse{
+  border-top: 1px solid #b4b4b4;
+}
+
 @media (min-width: 768px) {
   #motto{
     font-size: 72px;
@@ -70,7 +96,15 @@ ul.banner-social-buttons{
     font-size: 50px;
   }
   
-  
+  #frc-logo{
+    max-width: 60%;
+  }
   
 }
 
+@media (min-width: 992px){
+.content-section {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+}
