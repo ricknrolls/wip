@@ -78,10 +78,6 @@ ul.banner-social-buttons{
   outline: none;
 }
 
-#mainNav{
-  background-color: #2b2d2d;
-}
-
 .navbar-collapse{
   border-top: 1px solid #b4b4b4;
 }
@@ -110,5 +106,11 @@ ul.banner-social-buttons{
 .content-section {
     padding-top: 100px;
     padding-bottom: 100px;
+}
+}
+
+@media (max-width: 992px){
+#mainNav{
+  background-color: #2b2d2d;
 }
 }
