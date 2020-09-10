@@ -11,6 +11,10 @@ html{
 scroll-behavior: smooth;
 }
 
+body {
+	font-family: 'Kumbh Sans', sans-serif;
+}
+
 
 @media (min-width: 768px) {
   #nasze-sekcje .col-md-4{
