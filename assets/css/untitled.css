@@ -118,3 +118,11 @@ ul.banner-social-buttons{
   background-color: #2b2d2d;
 }
 }
+
+.learn-more-button{
+color:  #f08700;
+}
+
+.learn-more-button :hover{
+color: #f5f1e3;
+}
