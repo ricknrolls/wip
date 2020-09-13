@@ -152,3 +152,16 @@ color: #f5f1e3;
 		width: 100%;
 	}
 }
+
+img{
+  user-drag: none; 
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-drag: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}
+
+.btn-default{
+  width: 180px;
+}
