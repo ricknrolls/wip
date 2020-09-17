@@ -22,6 +22,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Kumbh+Sans&display=swap">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <script src="https://kit.fontawesome.com/1e6d29118a.js" crossorigin="anonymous"></script>
+    <script src="assets/js/jquery.js"></script>
 </head>
 
 <body id="page-top">
@@ -48,7 +49,7 @@
                 <div class="row">
                     <div class="col-lg-8 mx-auto" style="width: 90%;">
                         <h1 class="brand-heading" style="margin-top: 80px;" id="motto">ODMIENIONE OBLICZE ROBOTYKI</h1>
-                        <p class="intro-text" id="under-motto" style="font-family: Cabin, sans-serif;margin-bottom: 35px;padding-bottom: 17px;">RICK N' ROLLS&nbsp;</p><a class="btn btn-link btn-circle" role="button" href="#onas"><i class="fa fa-angle-double-down animated"></i></a></div>
+                        <p class="intro-text" id="under-motto" style="font-family: Cabin, sans-serif;margin-bottom: 35px;padding-bottom: 17px;">RICK N' ROLLS&nbsp;</p><a class="btn btn-link btn-circle" role="button" href="#onas"><i class="fa fa-angle-double-down animated" id="smooth-scroll"></i></a></div>
                 </div>
             </div>
         </div>
@@ -162,7 +163,7 @@
                 <span class="circle" aria-hidden="true">
                 <span class="icon arrow"></span>
                 </span>
-                <span class="button-text">Poznaj naszą drużynę</span>
+                <span class="button-text" style="padding-left: 20px">Poznaj naszą drużynę</span>
                 </button>
                 </a>
             </div>
@@ -341,6 +342,34 @@
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
     <script src="assets/js/grayscale.js"></script>
+
+<script>
+$(document).ready(function(){
+  // Add smooth scrolling to all links
+  $("a").on('click', function(event) {
+
+    // Make sure this.hash has a value before overriding default behavior
+    if (this.hash !== "") {
+      // Prevent default anchor click behavior
+      event.preventDefault();
+
+      // Store hash
+      var hash = this.hash;
+
+      // Using jQuery's animate() method to add smooth page scroll
+      // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 800, function(){
+
+        // Add hash (#) to URL when done scrolling (default click behavior)
+        window.location.hash = hash;
+      });
+    } // End if
+  });
+});
+</script>
+
 </body>
 
 </html>
